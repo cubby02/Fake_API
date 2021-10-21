@@ -99,5 +99,31 @@
       "stock": 32,
       "productPhoto": "https://i.ibb.co/vjBGPLS/user-3.png"
     }
+  ],
+  "store": [
+    {
+      "id": 1,
+      "store_name": "Marites Store",
+      "store_type": "Chismis Hotspot",
+      "store_photo": "https://i.ibb.co/gwd8hmH/user-1.png"
+    },
+    {
+      "id": 2,
+      "store_name": "Tindahan ni Telmo",
+      "store_type": "Grocery Store",
+      "store_photo": "https://i.ibb.co/RT9R3tF/user-2.png"
+    },
+    {
+      "id": 3,
+      "store_name": "Legend of the Blue Sea",
+      "store_type": "Fresh fish from the ocean",
+      "store_photo": "https://i.ibb.co/vjBGPLS/user-3.png"
+    },
+    {
+      "id": 4,
+      "store_name": "Ka Meaty",
+      "store_type": "Meat Dealer",
+      "store_photo": "https://i.ibb.co/vjBGPLS/user-3.png"
+    }
   ]
 }
